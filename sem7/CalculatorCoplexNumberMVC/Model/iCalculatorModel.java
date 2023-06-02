@@ -1,4 +1,4 @@
-package Sem7.CalculatorCoplexNumberMVC.Model;
+package sem7.CalculatorCoplexNumberMVC.Model;
 
 public interface iCalculatorModel<T> {
 

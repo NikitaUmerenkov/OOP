@@ -1,7 +1,7 @@
-package Sem7.CalculatorCoplexNumberMVC.View;
+package sem7.CalculatorCoplexNumberMVC.View;
 
 import java.util.Scanner;
-import Sem7.CalculatorCoplexNumberMVC.Model.ComplexNumber;
+import sem7.CalculatorCoplexNumberMVC.Model.ComplexNumber;
 
 /**
  * Клаас вьюера с интерфейсом iCalculatorView

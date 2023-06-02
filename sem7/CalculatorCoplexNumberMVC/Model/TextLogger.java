@@ -1,11 +1,11 @@
-package Sem7.CalculatorCoplexNumberMVC.Model;
+package sem7.CalculatorCoplexNumberMVC.Model;
 
 import java.io.File;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-import Sem7.CalculatorCoplexNumberMVC.Controller.Menu;
+import sem7.CalculatorCoplexNumberMVC.Controller.Menu;
 
 /**
  * Класс логгера с интерфейсом iLogger

@@ -1,6 +1,6 @@
-package Sem7.CalculatorCoplexNumberMVC.Model;
+package sem7.CalculatorCoplexNumberMVC.Model;
 
-import Sem7.CalculatorCoplexNumberMVC.Controller.Menu;
+import sem7.CalculatorCoplexNumberMVC.Controller.Menu;
 
 public interface iLogger<T> {
 

@@ -1,8 +1,8 @@
-package Sem7.CalculatorCoplexNumberMVC.Controller;
+package sem7.CalculatorCoplexNumberMVC.Controller;
 
-import Sem7.CalculatorCoplexNumberMVC.Model.iCalculatorModel;
-import Sem7.CalculatorCoplexNumberMVC.View.iCalculatorView;
-import Sem7.CalculatorCoplexNumberMVC.Model.iLogger;
+import sem7.CalculatorCoplexNumberMVC.Model.iCalculatorModel;
+import sem7.CalculatorCoplexNumberMVC.View.iCalculatorView;
+import sem7.CalculatorCoplexNumberMVC.Model.iLogger;
 
 public class CalculatorController<T> {
 

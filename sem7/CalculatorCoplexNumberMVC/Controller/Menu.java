@@ -1,4 +1,4 @@
-package Sem7.CalculatorCoplexNumberMVC.Controller;
+package sem7.CalculatorCoplexNumberMVC.Controller;
 
 /**
  * Класс перечисления меню
@@ -31,9 +31,4 @@ public enum Menu {
 		return operator;
 	}
 
-	// Не использован
-	// @Override
-	// public String toString() {
-	// return operator;
-	// }
 }

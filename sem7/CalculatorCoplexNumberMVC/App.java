@@ -1,13 +1,13 @@
-package Sem7.CalculatorCoplexNumberMVC;
+package sem7.CalculatorCoplexNumberMVC;
 
-import Sem7.CalculatorCoplexNumberMVC.Controller.CalculatorController;
-import Sem7.CalculatorCoplexNumberMVC.Model.ComplexCalculatorModel;
-import Sem7.CalculatorCoplexNumberMVC.Model.ComplexNumber;
-import Sem7.CalculatorCoplexNumberMVC.Model.TextLogger;
-import Sem7.CalculatorCoplexNumberMVC.Model.iCalculatorModel;
-import Sem7.CalculatorCoplexNumberMVC.Model.iLogger;
-import Sem7.CalculatorCoplexNumberMVC.View.DefaultCalculatorView;
-import Sem7.CalculatorCoplexNumberMVC.View.iCalculatorView;
+import sem7.CalculatorCoplexNumberMVC.Controller.CalculatorController;
+import sem7.CalculatorCoplexNumberMVC.Model.ComplexCalculatorModel;
+import sem7.CalculatorCoplexNumberMVC.Model.ComplexNumber;
+import sem7.CalculatorCoplexNumberMVC.Model.TextLogger;
+import sem7.CalculatorCoplexNumberMVC.Model.iCalculatorModel;
+import sem7.CalculatorCoplexNumberMVC.Model.iLogger;
+import sem7.CalculatorCoplexNumberMVC.View.DefaultCalculatorView;
+import sem7.CalculatorCoplexNumberMVC.View.iCalculatorView;
 
 public class App {
 	public static void main(String[] args) throws Exception {

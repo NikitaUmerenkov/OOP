@@ -1,4 +1,4 @@
-package Sem7.CalculatorCoplexNumberMVC.View;
+package sem7.CalculatorCoplexNumberMVC.View;
 
 public interface iCalculatorView<T> {
 
