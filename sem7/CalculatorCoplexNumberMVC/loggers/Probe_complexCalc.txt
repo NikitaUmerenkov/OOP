@@ -1,0 +1,4 @@
+июн. 02, 2023 3:25:51 PM Sem7.CalculatorCoplexNumberMVC.Model.TextLogger writeLog
+INFO: (14 + 0i) / (7 + 0i) = (2 + 0i)
+июн. 02, 2023 3:26:18 PM Sem7.CalculatorCoplexNumberMVC.Model.TextLogger writeLog
+INFO: (22 + 1i) + (23 + 1i) = (45 + 2i)
