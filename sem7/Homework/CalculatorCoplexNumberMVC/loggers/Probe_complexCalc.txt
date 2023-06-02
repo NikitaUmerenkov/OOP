@@ -1,4 +1,0 @@
-июн. 02, 2023 3:02:56 PM sem7.Homework.CalculatorCoplexNumberMVC.Model.TextLogger writeLog
-INFO: (15 + 1i) + (3 + 1i) = (18 + 2i)
-июн. 02, 2023 3:04:35 PM sem7.Homework.CalculatorCoplexNumberMVC.Model.TextLogger writeLog
-INFO: (99 + 15i) / (9 + 3i) = (10.4 + -1.8i)
